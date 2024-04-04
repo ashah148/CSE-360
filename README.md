@@ -1,1 +1,2 @@
-# CSE-360
+# CSE-360 
+#in class participation
